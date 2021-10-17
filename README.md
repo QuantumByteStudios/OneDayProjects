@@ -8,6 +8,7 @@ Languages
 
 2) Cpp<br>
 <b>1) TypeMaster</b>
+<b>2) Tic Tac Toe</b>
 
 3) Python<br>
 <i>None</i>
