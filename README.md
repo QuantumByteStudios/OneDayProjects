@@ -7,7 +7,7 @@ Languages
 <i>None</i>
 
 2) Cpp<br>
-<b>1) TypeMaster</b>
+<b>1) TypeMaster</b><br>
 <b>2) Tic Tac Toe</b>
 
 3) Python<br>
